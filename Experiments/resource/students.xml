@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+   	<student>
+   		<rollno>22</rollno>
+      	<firstname>Maheshvarun</firstname>
+      	<lastname>Devarakonda</lastname>
+      	<nickname>chintu</nickname>
+      	<marks>85</marks>
+   	</student>
